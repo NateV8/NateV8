@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @NateV8
-- 👀 I’m interested in getting a codign job as a highschooler
+- 👀 I’m interested in getting a coding job as a highschooler
 - 🌱 I’m currently learning JavaScript, HTML, and CSS
 - 💞️ I’m looking to collaborate on nothing :D
 - 📫 How to reach me (nice try)
